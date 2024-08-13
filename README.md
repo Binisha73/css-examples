@@ -1,4 +1,4 @@
-# css-examples
+# CSS EXAMPLES
 
 Code examples that accompany various MDN CSS documentation pages.
 
